@@ -9,7 +9,6 @@ Edited semantics in HTML to have better search engine optimization
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
-- [License](#license)
 - [Features](#features)
 
 ## Installation
