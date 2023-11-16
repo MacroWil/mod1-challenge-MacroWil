@@ -30,4 +30,4 @@ Functional links [LINK TO ONLINE SITE] (https://macrowil.github.io/mod1-challeng
 
 ## Screenshot
 
-![Horiseon webpage expected behavior](./assets/Images/horiseon-site.jpg)
+![Horiseon webpage expected behavior](./assets/images/horiseon-site.jpg)
