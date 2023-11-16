@@ -10,6 +10,7 @@ Edited semantics in HTML to have better search engine optimization
 - [Usage](#usage)
 - [Credits](#credits)
 - [Features](#features)
+- [screenshot](#screenshot)
 
 ## Installation
 
@@ -26,3 +27,7 @@ Maguire Wilson
 ## Features
 
 Functional links [LINK TO ONLINE SITE] (https://macrowil.github.io/mod1-challenge-MacroWil/)
+
+## Screenshot
+
+![Horiseon webpage expected behavior](./assets/Images/horiseon-site.jpg)
