@@ -25,4 +25,4 @@ Maguire Wilson
 
 ## Features
 
-Functional links (LINK TO ONLINE SITE)
+Functional links [LINK TO ONLINE SITE] (https://macrowil.github.io/mod1-challenge-MacroWil/)
