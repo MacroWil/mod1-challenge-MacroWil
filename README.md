@@ -22,7 +22,7 @@ View changes to Horiseon website
 
 ## Credits
 
-Maguire Wilson
+Maguire Wilson, Georgeyoo (for starter code)
 
 ## Features
 
